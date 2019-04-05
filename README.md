@@ -15,6 +15,6 @@ Objeto y campo de aplicación: proporcionar directrices para considerar tanto la
 ### NTC 5802 – Gestión de la I+D+i. Requisitos de un proyecto de I+D+i.
 Objeto y campo de aplicación: facilitar la sistematización de las actividades de investigación, desarrollo e innovación en forma de proyectos de I+D+i.
 Ayudar a definir, documentar y elaborar proyectos de I+D+i, mejorar su gestión, así como la comunicación a las partes interesadas
-![picture](https://raw.githubusercontent.com/afsolanoc95/Gestion-Tecnologica/master/mapa%20mental%20gestion%20tecnologica.png)
+![mapa mental](https://raw.githubusercontent.com/afsolanoc95/Gestion-Tecnologica/master/mapa%20mental%20gestion%20tecnologica.png)
 
-https://raw.githubusercontent.com/afsolanoc95/Gestion-Tecnologica/master/mapa%20mental%20gestion%20tecnologica.png
+
