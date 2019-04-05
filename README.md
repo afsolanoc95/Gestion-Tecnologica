@@ -16,4 +16,5 @@ Objeto y campo de aplicación: proporcionar directrices para considerar tanto la
 Objeto y campo de aplicación: facilitar la sistematización de las actividades de investigación, desarrollo e innovación en forma de proyectos de I+D+i.
 Ayudar a definir, documentar y elaborar proyectos de I+D+i, mejorar su gestión, así como la comunicación a las partes interesadas
 
-![Mapa mental](C:\Users\anderson\Pictures\mapa mental gestion tecnologica.png)
+https://raw.githubusercontent.com/parzibyte/afsolanoc95/master/Gestion-Tecnologica
+/mapa mental gestion tecnologica.png
