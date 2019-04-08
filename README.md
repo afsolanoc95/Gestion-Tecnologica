@@ -1,5 +1,5 @@
 # Gestion-Tecnologica
-
+![intro](http://4.images.southparkstudios.com/images/shows/south-park/episode-thumbnails/season-16/south-park-s16e06-i-should-have-never-gone-ziplining_16x9.jpg?quality=0.8&grayscale=true)
 ## Normas 5800, 5801 5802 Sobre Gestión De Tecnología
 
 ### Integrantes
