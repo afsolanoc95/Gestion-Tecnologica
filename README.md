@@ -35,6 +35,11 @@ De acuerdo con Kearns [XIX] la faceta de Evaluación de la Tecnología envuelve 
 3. Madurez. Ha alcanzado su nivel de rendimiento adecuado para su incorporación a todo tipo de proyectos 
 4. Saturación. No es posible mejorar más su rendimiento 
 5. Obsolescencia. Tras un periodo en saturación, la tecnología se hace obsoleta porque el rendimiento comparativo con otra posible tecnología competidora la convierte en perdedora
+
+
+![tabla2](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/rendimiento.PNG?raw=true)
+
+
 Todas las tecnologías presentan una curva de desarrollo en forma de “S” en la que con el tiempo (y las inversiones efectuadas) mejora la productividad obtenida en su aplicación. Pero no es sencillo prever el desarrollo de una tecnología en los próximos años y su impacto en los mercados no son sencillas. El caso del comercio electrónico sobre Internet, ahora evidente, no aparecía claramente en las predicciones de hace una década. Únicamente de las tecnologías obsoletas se conoce perfectamente su “curva en S”.
 
   ### Inventariar
@@ -70,18 +75,18 @@ Al respecto, el profesor Jorge Robledo (1994) la concibe como una disciplina cie
 Como la tecnología es irreductible en la ingeniería, muchas profesiones definen campos tecnológicos claros que también debe considerar la gestión tecnológica; de allí que esta vaya más allá de la gestión ingenieril. Se sugiere, entonces, la necesidad de que las personas tengan conocimientos en materia de gestión tecnológica, entre ellos los ingenieros. Villaveces (1994) propone la gestión tecnológica como una rama de las matemáticas, porque ellas son la base de la toma de decisiones, que es el componente central en esta nueva disciplina.
 
 La gestión tecnológica incluye las siguientes actividades:
-•	Seguimiento, análisis y prospectiva tecnológica.
-•	Planificación del desarrollo tecnológico.
-•	Diseño de estrategias de desarrollo tecnológico.
-•	Identificación, evaluación y selección de tecnologías.
-•	Adaptación e innovación tecnológica.
-•	Negociación, adquisición y contratación de tecnologías.
-•	Comercialización de tecnologías de la empresa.
-•	Patentamiento.
-•	Financiación del desarrollo tecnológico.
-•	Selección y capacitación de asesores y operadores tecnológicos.
-•	Gestión de proyectos de investigación y desarrollo.
-•	Suministro y evaluación de información técnica.
+*	Seguimiento, análisis y prospectiva tecnológica.
+*	Planificación del desarrollo tecnológico.
+*	Diseño de estrategias de desarrollo tecnológico.
+*	Identificación, evaluación y selección de tecnologías.
+*	Adaptación e innovación tecnológica.
+*	Negociación, adquisición y contratación de tecnologías.
+*	Comercialización de tecnologías de la empresa.
+*	Patentamiento.
+*	Financiación del desarrollo tecnológico.
+*	Selección y capacitación de asesores y operadores tecnológicos.
+*	Gestión de proyectos de investigación y desarrollo.
+*	Suministro y evaluación de información técnica.
 
 
 
