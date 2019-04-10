@@ -16,12 +16,15 @@
    ##### NTC 5802 – Gestión de la I+D+i. Requisitos de un proyecto de I+D+i.
     Objeto y campo de aplicación: facilitar la sistematización de las actividades de investigación, desarrollo e innovación en forma de proyectos de I+D+i.
     Ayudar a definir, documentar y elaborar proyectos de I+D+i, mejorar su gestión, así como la comunicación a las partes interesadas
+
 ![mapa mental](https://raw.githubusercontent.com/afsolanoc95/Gestion-Tecnologica/master/mapa%20mental%20gestion%20tecnologica.png)
 
 ## FASES DE LA GESTIÓN TECNOLÓGICA 
   ### Introducción
 Según dice Kearns [XIX] el modelo de las seis facetas está concebido para implementar nuevas tecnologías innovadoras dentro de una organización, es decir; moldea y evalúa la implementación de nuevos procesos tecnológicos dentro de una organización [XXV]. El modelo está compuesto por seis facetas de gestión: Evaluación de la Tecnología, Integración de los procesos y productos, Planeación, Implementación, Entrenamiento y Cambio. Este modelo es especial para organizaciones donde los cambios en la tecnología se dan continuamente.
+
 ![tabla1](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/gestiontecno.png?raw=true)
+
 De acuerdo con Kearns [XIX] la faceta de Evaluación de la Tecnología envuelve la selección de tecnología y evaluación de la implementación y post-implementación. Es necesario el mejoramiento continuo para asegurar que la tecnología es siempre efectiva. La integración de Procesos y Productos se determina como una tecnología que se puede introducir en el ambiente organizacional y la necesidad de interacción con el proceso.
 
 De acuerdo con Kearns [XIX] la faceta de Evaluación de la Tecnología envuelve la selección de tecnología y evaluación de la implementación y post-implementación. Es necesario el mejoramiento continuo para asegurar que la tecnología es siempre efectiva. La integración de Procesos y Productos se determina como una tecnología que se puede introducir en el ambiente organizacional y la necesidad de interacción con el proceso.
