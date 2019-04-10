@@ -21,8 +21,7 @@
 ## FASES DE LA GESTIÓN TECNOLÓGICA 
   ### Introducción
 Según dice Kearns [XIX] el modelo de las seis facetas está concebido para implementar nuevas tecnologías innovadoras dentro de una organización, es decir; moldea y evalúa la implementación de nuevos procesos tecnológicos dentro de una organización [XXV]. El modelo está compuesto por seis facetas de gestión: Evaluación de la Tecnología, Integración de los procesos y productos, Planeación, Implementación, Entrenamiento y Cambio. Este modelo es especial para organizaciones donde los cambios en la tecnología se dan continuamente.
-
-
+![tabla1](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/gestiontecno.png?raw=true)
 De acuerdo con Kearns [XIX] la faceta de Evaluación de la Tecnología envuelve la selección de tecnología y evaluación de la implementación y post-implementación. Es necesario el mejoramiento continuo para asegurar que la tecnología es siempre efectiva. La integración de Procesos y Productos se determina como una tecnología que se puede introducir en el ambiente organizacional y la necesidad de interacción con el proceso.
 
 De acuerdo con Kearns [XIX] la faceta de Evaluación de la Tecnología envuelve la selección de tecnología y evaluación de la implementación y post-implementación. Es necesario el mejoramiento continuo para asegurar que la tecnología es siempre efectiva. La integración de Procesos y Productos se determina como una tecnología que se puede introducir en el ambiente organizacional y la necesidad de interacción con el proceso.
