@@ -99,3 +99,16 @@ Restrepo González. G, Cordúa SJ. El concepto y alcance de la gestión tecnoló
 Jaimes, Liliana, Conceptos y Casos de Aplicación: Gestión Tecnológica, UIS, 2011, Colombia, Disponible en: http://revistas.uis.edu.co/index.php/revistagti/article/download/2289/2645/
 
 Gestión de la Tecnología, Disponible en: http://aprendeenlinea.udea.edu.co/lms/moodle/file.php/478/Capitulo_5/Basico/Gestion_tecnologia.pdf
+
+#### herramientas de gestión docker
+
+* instalar docker y docker compose
+* Descargar el archivo docker-compose y las dos carpetas que tienen los dos dockerfiles
+* crear las imagenes con los dockfiles dentro de las carpetas con el comando  docker build -t dockphp(nombre de la imagen) /home/so/gestionTecnologica/docker4(ejemplo direccion de la imagen)
+* verificar que se hayan creado las imagenes con sudo docker images
+* en la carpeta que contiene el docker-compose.yaml ejecutar el codigo docker-compose up
+* con el comando sudo docker ps -a verificamos que  el contenedor este creado.
+
+
+
+
