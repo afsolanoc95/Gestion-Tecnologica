@@ -23,4 +23,11 @@ services:
     tty: true
 
   apache:
-        image: "dockapache"
+    image: "dockapache"
+    build: ./webapp
+    depends_on:
+        - db
+    container_name: apache_web
+    restart: always
+   ports:
+        - "8080:80"
