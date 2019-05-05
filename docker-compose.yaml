@@ -1,20 +1,21 @@
-mantisbt:
-  image: vimagick/mantisbt:latest
-  ports:
-    - "8989:80"
-  links:
-    - mysql
-  restart: always
-
-mysql:
-  image: mysql:latest
-  environment:
-    - MYSQL_ROOT_PASSWORD=root
-    - MYSQL_DATABASE=bugtracker
-    - MYSQL_USER=mantisbt
-    - MYSQL_PASSWORD=mantisbt
-  restart: always
-        
-
-    
- 
+version: '3'
+services:
+  openproject:
+    container_name: openproject
+    image: openproject/community:8
+    ports:
+      - 8080:80
+    volumes:
+      - ./openproject/static:/var/db/openproject
+      - ./openproject/logs:/var/log/supervisor
+      - ./openproject/pgdata:/var/lib/postgresql/9.6/main
+    environment:
+      - SECRET_KEY_BASE=secret      
+      - EMAIL_DELIVERY_METHOD="smtp"
+      - SMTP_ADDRESS="smtp.mailgun.org"
+      - SMTP_PORT="587"
+      - SMTP_DOMAIN="myDomain.com"
+      - SMTP_AUTHENTICATION="plain"
+      - SMTP_USER_NAME="afsolanoc"
+      - SMTP_PASSWORD="123456"
+      - SMTP_ENABLE_STARTTLS_AUTO="true"
