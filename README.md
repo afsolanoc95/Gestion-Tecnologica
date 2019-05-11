@@ -100,15 +100,37 @@ Jaimes, Liliana, Conceptos y Casos de Aplicación: Gestión Tecnológica, UIS, 2
 
 Gestión de la Tecnología, Disponible en: http://aprendeenlinea.udea.edu.co/lms/moodle/file.php/478/Capitulo_5/Basico/Gestion_tecnologia.pdf
 
-#### herramientas de gestión docker
+## herramientas de gestión docker
 
 * instalar docker y docker compose
-* Descargar el archivo docker-compose y las dos carpetas que tienen los dos dockerfiles
-* crear las imagenes con los dockfiles dentro de las carpetas con el comando  docker build -t dockphp(nombre de la imagen) /home/so/gestionTecnologica/docker4(ejemplo direccion de la imagen)
-* verificar que se hayan creado las imagenes con sudo docker images
+
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura1.PNG)
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura2.PNG)
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura3.PNG)
+
+* Verificar la version de docker y docker compose
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura4.PNG)
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura5.PNG)
+
+* Descargar el archivo docker-compose
+
+* crear la imagen descargando el archivo dockerfile y con el dockfile dentro de las carpetas con el comando  docker build -t dockerfile(nombre de la imagen) /home/so/gestionTecnologica/dockerfile(ejemplo direccion de la imagen)
+
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura6.PNG)
+
+* verificar que se haya creado la imagen con sudo docker images
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura7.PNG)
+
 * en la carpeta que contiene el docker-compose.yaml ejecutar el codigo docker-compose up
+
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura8.PNG)
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura9.PNG)
+
 * con el comando sudo docker ps -a verificamos que  el contenedor este creado.
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura11.PNG)
 
+* dirigirnos al puerto donde se instalo.
 
+![mapa mental](https://github.com/afsolanoc95/Gestion-Tecnologica/blob/master/docker3/Captura10.PNG)
 
 
